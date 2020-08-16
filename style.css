@@ -10,7 +10,7 @@ h1 {
     /* border: solid 2px grey;  */
     height: 35vw;
     width: 35vw;
-    background: url(clock1.png) no-repeat;
+    background: url(/Clock-Project/clock1.png) no-repeat;
     background-size: 100%;
 }
 
